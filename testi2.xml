@@ -1,0 +1,51 @@
+<Drawing><drawable type="Line" x="274.0" y="211.0" outX="382.0" outY="356.0">
+      <color red="0.0" green="0.0" blue="1.0" opacity="1.0"/>
+    </drawable><drawable type="Line" x="370.0" y="415.0" outX="236.0" outY="416.0">
+      <color red="0.0" green="0.0" blue="1.0" opacity="1.0"/>
+    </drawable><drawable type="Line" x="171.0" y="371.0" outX="192.0" outY="289.0">
+      <color red="0.0" green="0.0" blue="1.0" opacity="1.0"/>
+    </drawable><drawable type="Line" x="185.0" y="195.0" outX="242.0" outY="174.0">
+      <color red="0.0" green="0.0" blue="1.0" opacity="1.0"/>
+    </drawable><drawable type="Line" x="315.0" y="162.0" outX="390.0" outY="183.0">
+      <color red="0.0" green="0.0" blue="1.0" opacity="1.0"/>
+    </drawable><drawable type="Line" x="451.0" y="232.0" outX="465.0" outY="259.0">
+      <color red="0.0" green="0.0" blue="1.0" opacity="1.0"/>
+    </drawable><drawable type="Line" x="479.0" y="290.0" outX="479.0" outY="306.0">
+      <color red="0.0" green="0.0" blue="1.0" opacity="1.0"/>
+    </drawable><drawable type="Line" x="473.0" y="340.0" outX="466.0" outY="352.0">
+      <color red="0.0" green="0.0" blue="1.0" opacity="1.0"/>
+    </drawable><drawable type="Line" x="460.0" y="368.0" outX="455.0" outY="377.0">
+      <color red="0.0" green="0.0" blue="1.0" opacity="1.0"/>
+    </drawable><drawable type="Line" x="450.0" y="385.0" outX="447.0" outY="391.0">
+      <color red="0.0" green="0.0" blue="1.0" opacity="1.0"/>
+    </drawable><drawable type="Line" x="426.0" y="417.0" outX="396.0" outY="441.0">
+      <color red="0.0" green="0.0" blue="1.0" opacity="1.0"/>
+    </drawable><drawable type="Line" x="386.0" y="446.0" outX="337.0" outY="465.0">
+      <color red="0.0" green="0.0" blue="1.0" opacity="1.0"/>
+    </drawable><drawable type="Line" x="288.0" y="492.0" outX="258.0" outY="499.0">
+      <color red="0.0" green="0.0" blue="1.0" opacity="1.0"/>
+    </drawable><drawable type="Line" x="203.0" y="491.0" outX="184.0" outY="483.0">
+      <color red="0.0" green="0.0" blue="1.0" opacity="1.0"/>
+    </drawable><drawable type="Line" x="148.0" y="462.0" outX="141.0" outY="449.0">
+      <color red="0.0" green="0.0" blue="1.0" opacity="1.0"/>
+    </drawable><drawable type="Line" x="141.0" y="403.0" outX="153.0" outY="286.0">
+      <color red="0.0" green="0.0" blue="1.0" opacity="1.0"/>
+    </drawable><drawable type="Line" x="172.0" y="225.0" outX="272.0" outY="210.0">
+      <color red="0.0" green="0.0" blue="1.0" opacity="1.0"/>
+    </drawable><drawable type="Line" x="286.0" y="193.0" outX="278.0" outY="162.0">
+      <color red="0.0" green="0.0" blue="1.0" opacity="1.0"/>
+    </drawable><drawable type="Line" x="252.0" y="117.0" outX="205.0" outY="105.0">
+      <color red="0.0" green="0.0" blue="1.0" opacity="1.0"/>
+    </drawable><drawable type="Line" x="159.0" y="105.0" outX="175.0" outY="88.0">
+      <color red="0.0" green="0.0" blue="1.0" opacity="1.0"/>
+    </drawable><drawable type="Line" x="445.0" y="111.0" outX="372.0" outY="281.0">
+      <color red="0.4000000059604645" green="0.6000000238418579" blue="0.4000000059604645" opacity="1.0"/>
+    </drawable><drawable type="Line" x="476.0" y="400.0" outX="488.0" outY="465.0">
+      <color red="0.4000000059604645" green="0.6000000238418579" blue="0.4000000059604645" opacity="1.0"/>
+    </drawable><drawable type="Ellipse" x="53.0" y="125.0" outX="158.0" outY="241.0">
+      <color red="0.4000000059604645" green="0.6000000238418579" blue="0.4000000059604645" opacity="1.0"/>
+    </drawable><drawable type="Circle" x="232.0" y="74.0" outX="211.0" outY="124.0">
+      <color red="0.4000000059604645" green="0.6000000238418579" blue="0.4000000059604645" opacity="1.0"/>
+    </drawable><drawable type="Rectangle" x="227.0" y="393.0" outX="355.0" outY="181.0">
+      <color red="0.4000000059604645" green="0.6000000238418579" blue="0.4000000059604645" opacity="1.0"/>
+    </drawable></Drawing>

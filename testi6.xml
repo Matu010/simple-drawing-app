@@ -1,0 +1,16 @@
+<Drawing><drawable type="Line" x="86.0" y="77.0" outX="108.0" outY="112.0">
+      <color red="0.0" green="0.0" blue="1.0" opacity="1.0"/>
+    </drawable><drawable type="Line" x="174.0" y="171.0" outX="200.0" outY="158.0">
+      <color red="0.0" green="0.0" blue="1.0" opacity="1.0"/>
+    </drawable><drawable type="Line" x="261.0" y="167.0" outX="272.0" outY="188.0">
+      <color red="0.0" green="0.0" blue="1.0" opacity="1.0"/>
+    </drawable><drawable type="Line" x="267.0" y="210.0" outX="251.0" outY="213.0">
+      <color red="0.0" green="0.0" blue="1.0" opacity="1.0"/>
+    </drawable><drawable type="Line" x="227.0" y="213.0" outX="214.0" outY="210.0">
+      <color red="0.0" green="0.0" blue="1.0" opacity="1.0"/>
+    </drawable><drawable type="Cleared">
+    </drawable><drawable type="Line" x="189.0" y="172.0" outX="180.0" outY="268.0">
+      <color red="0.501960813999176" green="0.501960813999176" blue="0.0" opacity="1.0"/>
+    </drawable><drawable type="Line" x="338.0" y="186.0" outX="338.0" outY="330.0">
+      <color red="0.501960813999176" green="0.501960813999176" blue="0.0" opacity="1.0"/>
+    </drawable></Drawing>
